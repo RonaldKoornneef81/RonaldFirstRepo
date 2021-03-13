@@ -3,4 +3,6 @@ It can be edited by everyone who wants to add new commands to it.
 
 LS		-	Shows files in current directory
 RM(filename)	-	Removesd specified file
+MKDIR		-	Create a new directory at current working location
+CD .		-	Back to main path
 
