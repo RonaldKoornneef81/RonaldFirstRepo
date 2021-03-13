@@ -1,0 +1,6 @@
+This is a file which stores a variety of Linux commands.
+It can be edited by everyone who wants to add new commands to it.
+
+LS		-	Shows files in current directory
+RM(filename)	-	Removesd specified file
+
